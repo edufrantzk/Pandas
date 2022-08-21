@@ -1,2 +1,2 @@
 # Pandas
-Esse repositório tem por finalidade expor de forma prática algumas funções do pacote pandas para que possam ser facilmente consultadas e analisadas.
+This repository has the purpose of exposing in a practical way some functions of the pandas package that i learned in the Corey Schafer on Youtube so that they can be easily consulted and analyzed.
